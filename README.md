@@ -2,7 +2,7 @@
 
 ## Description
 
-The Interest Calculator App is a simple mobile application built using Ionic and Vue. This app allows users to calculate different types of interest, such as simple interest and compound interest, based on user-provided input values. It serves as a practical example of how to develop a financial calculator using modern web technologies.
+The Interest Calculator App is a simple mobile application built using Ionic and Vue. This app allows users to calculate different elements, such as annuities and present value, based on user-provided input values. It serves as a practical example of how to develop a financial calculator using modern web technologies.
 
 ## Features
 
