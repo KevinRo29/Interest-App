@@ -8,15 +8,13 @@ The Interest Calculator App is a simple mobile application built using Ionic and
 
 ## Features
 
-- Calculate simple interest.
-- Calculate compound interest.
+- Calculate present value.
+- Calculate annuities.
 - User-friendly interface.
 - Responsive design for mobile devices.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Installation
 
