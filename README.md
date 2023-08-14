@@ -1,7 +1,5 @@
 # Interest Calculator App
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/KevinRo29/interest-calculator-app/blob/main/LICENSE)
-
 ## Description
 
 The Interest Calculator App is a simple mobile application built using Ionic and Vue. This app allows users to calculate different types of interest, such as simple interest and compound interest, based on user-provided input values. It serves as a practical example of how to develop a financial calculator using modern web technologies.
@@ -14,7 +12,7 @@ The Interest Calculator App is a simple mobile application built using Ionic and
 - Responsive design for mobile devices.
 
 ## Screenshots
-
+![image](https://github.com/KevinRo29/Interest-App/assets/114008638/897204c5-fa1b-4d23-b4b6-93ff2c58d8c0)  ![image](https://github.com/KevinRo29/Interest-App/assets/114008638/34f04cac-b6de-4511-8b8a-9633874a5008)  ![image](https://github.com/KevinRo29/Interest-App/assets/114008638/90d4f39f-aa7b-4cc8-8eff-4ae99a78e867)
 
 ## Installation
 
